@@ -15,4 +15,4 @@ Cousera <br>
 LinkedIn Learning <br>
 OverTheWire <br>
 <b>Pwnable.kr</b> http://Pwnable.kr <br>
-Youtube [Click](https://github.com/AdaniKamal/Cybersecurity-Career/blob/main/Youtube%20Channel.md)https://github.com/AdaniKamal/Cybersecurity-Career/blob/main/Youtube%20Channel.md) <br> 
+Youtube [Click](https://github.com/AdaniKamal/Cybersecurity-Career/blob/main/Youtube%20Channel.md) <br> 
