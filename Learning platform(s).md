@@ -1,7 +1,7 @@
 # Learning platform(s)
 
 TryHackMe <br>
-Hack The Box <br>
+Hack The Box https://app.hackthebox.com/ <br>
 PwnTillDawn <br>
 HackMyVM <br>
 VulnHub <br>
