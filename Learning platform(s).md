@@ -16,3 +16,4 @@ Hack The Box https://app.hackthebox.com/ <br>
 <b>OverTheWire <br>
 <b>Pwnable.kr</b> http://Pwnable.kr <br>
 <b>Youtube [Click](https://github.com/AdaniKamal/Cybersecurity-Career/blob/main/Youtube%20Channel.md) <br> 
+Podcast
