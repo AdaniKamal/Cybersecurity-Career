@@ -5,13 +5,13 @@
 <br> 
 
 ## Main roles and responsibilities
-Investigate Suspicious Activities
-Maintain secure monitoring tools
-Liasise with and delegate to the rest of the SOC team
-Review and report on all Cybersecurity Process
-Keep up all Programs and resources up to date
-respond to cyber incidents
-First line of defense
+- Investigate Suspicious Activities
+- Maintain secure monitoring tools
+- Liasise with and delegate to the rest of the SOC team
+- Review and report on all Cybersecurity Process
+- Keep up all Programs and resources up to date
+- respond to cyber incidents
+- First line of defense
 
 <br> 
 
