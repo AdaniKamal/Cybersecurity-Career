@@ -1,5 +1,7 @@
 # SOC Analyst aka Security Analyst
 
+![image](https://github.com/AdaniKamal/Cybersecurity-Career/assets/44063862/4f70cd0b-9782-4cb7-bbcb-eb12d0444aa5)
+
 > SOC Analyst — Security Operations Center Analyst or also known as Security Analyst
 
 <br> 
