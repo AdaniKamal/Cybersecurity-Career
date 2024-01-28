@@ -19,6 +19,8 @@
 1. CySA+ by CompTIA — https://comptia.org/certifications/cybersecurity-analyst…
 2. Certified SOC Analyst (CSA) by EC-Council — https://eccouncil.org/programs/certified-soc-analyst-csa/…
 3. BTL1 (Blue Team Level 1) by Blue Team Lab Online (BTLO) — https://securityblue.team/why-btl1
+   
+![image](https://github.com/AdaniKamal/Cybersecurity-Career/assets/44063862/8cd0841f-c1f3-408c-b6b6-0a41d48db9dd)
 
 <br> 
 
